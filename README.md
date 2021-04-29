@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Reactstrap Demo
+
+This project uses components from [Reactstrap](https://reactstrap.github.io/) and gets data from [PokeAPI](https://pokeapi.co/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
